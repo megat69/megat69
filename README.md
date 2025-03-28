@@ -18,13 +18,34 @@ My most recent and best project, a **full code editor** with community plugins a
 
 [![AlgorithmicEditor Repository](https://github-readme-stats.vercel.app/api/pin/?username=megat69&repo=AlgorithmicEditor&theme=merko)](https://github.com/megat69/AlgorithmicEditor)
 
+### ACOS
+My software-based Operating System : The ACOS.
+
+This was my second project using Python.  
+The aim to remake an even older project : The ACOS, a Web-based operating system in PHP.  
+If that sounds cursed, it's because it very much was !
+
+I lost the sources for that project, but it had become an unmaintainable mess of copy-pasted source files and code, with barely any function holding anything together.
+
+Mind you, I was 13-14 when I made the Web version of the ACOS, so mistakes like these are understandable, and were a part of my learning process.  
+So, at 16 years of age, I was ready to tackle a new version of the ACOS, this time made in Python with [Tkinter](https://docs.python.org/3/library/tkinter.html).
+
+This repo is *also* an unmaintainable mess.  
+This was entirely done in a procedural manner, with no classes to speak of.  
+It truly is composed of only two main source files : `boot.py` and `main.py`.
+
+Oh well, you'll see for yourself.  
+But it allowed me to learn and improve, and those mistakes I wouldn't do again.
+
+[![ACOS Repository](https://github-readme-stats.vercel.app/api/pin/?username=megat69&repo=ACOS_Python&theme=merko)](https://github.com/megat69/ACOS_Python)
+
 ### ACPL
-My first project is a programming language, the ACPL.
+My first *real* project is a programming language, the ACPL.
 
 This remains one of the projects I learned the most on.  
 There was no research.  
 No prior skill or experience.  
-I just sat in front of my keyboard and typed for hours upon hours, managing to find... Unorthodox solutions to uncommon problems.  
+Just a 15 year old who sat in front of my keyboard and typed for hours upon hours, managing to find... Unorthodox solutions to uncommon problems.  
 
 You'll see in this repo every single beginner mistake I made :
 - No plan
@@ -35,10 +56,6 @@ You'll see in this repo every single beginner mistake I made :
 
 [![ACPL Repository](https://github-readme-stats.vercel.app/api/pin/?username=megat69&repo=ACPL&theme=merko)](https://github.com/megat69/ACPL)
 
-My software-based Operating System : The ACOS.
-
-[![ACOS Repository](https://github-readme-stats.vercel.app/api/pin/?username=megat69&repo=ACOS_Python&theme=merko)](https://github.com/megat69/ACOS_Python)
-
-My GitHub stats :
+## My GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=megat69&show_icons=true&theme=merko&include_all_commits=true)
