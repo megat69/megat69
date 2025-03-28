@@ -13,8 +13,22 @@ I love to build tools that will help people be more productive, or automate alre
 A lot of my recent projects are stored on a University GitLab and a student organization Git server.  
 If you want to take a look at these, don't hesitate to shoot me a DM and I'll give you read access.
 
+### TinyTest
+A stupidly simple C++ testing framework, being made as a single header of only macros.
+
+It was made with the intention of allowing computer science students to write tests for their code as quickly as possible, while having very low overhead on the development process.  
+It is extremely simple to understand, and well documented with Doxygen !
+
+[![TinyTest Repository](https://github-readme-stats.vercel.app/api/pin/?username=megat69&repo=tinytest&theme=merko)](https://github.com/megat69/tinytest)
+
 ### AlgorithmicEditor
 My most recent and best project, a **full code editor** with community plugins and themes support, made for students to easily and quickly sketch pseudo-code to map out a program, before automatically translating it to either Algorithmic Syntax or C++.
+
+It is very modular, with support for a lot of hot reloading, and config options.  
+A few mistakes :  
+- Classes are too big.
+  - The `App` class takes over a thousand lines of code by itself !
+- The project class structure could have benefitted more forethought and planning. But it remains a weekend prototype that blew waaay out of proprtion, soooo...
 
 [![AlgorithmicEditor Repository](https://github-readme-stats.vercel.app/api/pin/?username=megat69&repo=AlgorithmicEditor&theme=merko)](https://github.com/megat69/AlgorithmicEditor)
 
